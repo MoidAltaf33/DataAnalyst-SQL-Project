@@ -1,4 +1,4 @@
-# Data Analyst Portfolio Project Repository
+# Data Analyst Portfolio Project
 Hello, My Name is Moid and this is my Git Hub channel. Here I am building my portfolio
 Project that I learn from expert like AlexTheAnalyst, Luke Barousse, Dhaval Patel and 
 other famous youtube channels.
